@@ -1,0 +1,37 @@
+product_sku,product_name,category,brand,base_cost,msrp,is_fragile,is_perishable
+ELE-BS-0001,Bluetooth Speaker,Electronics,MapleWorks,12.38,24.54,True,False
+ELE-WE-0002,Wireless Earbuds,Electronics,MapleWorks,77.48,110.31,True,False
+ELE-PC-0003,Phone Charger,Electronics,Everday,11.53,25.52,True,False
+ELE-UC-0004,USB-C Cable,Electronics,NorthPeak,61.79,109.25,True,False
+ELE-SB-0005,Smartwatch Band,Electronics,Everday,30.49,58.49,True,False
+ELE-PS-0006,Portable SSD,Electronics,NorthPeak,59.07,131.17,True,False
+HOM-LBP-0007,LED Bulb Pack,Home,PolarTech,13.62,20.03,False,False
+HOM-VF-0008,Vacuum Filters,Home,MapleWorks,17.94,34.93,False,False
+HOM-KS-0009,Kitchen Scale,Home,PolarTech,38.95,66.03,False,False
+HOM-WB-0010,Water Bottle,Home,Everday,7.42,15.97,False,False
+HOM-DT-0011,Dish Towels,Home,Riverline,29.24,44.71,False,False
+HOM-SB-0012,Storage Bins,Home,Cedar & Co.,41.86,68.15,False,False
+BEA-FC-0013,Face Cleanser,Beauty,MapleWorks,10.72,22.11,True,False
+BEA-M-0014,Moisturizer,Beauty,Aurora,9.2,19.14,True,False
+BEA-S-0015,Shampoo,Beauty,MapleWorks,13.19,31.11,True,False
+BEA-C-0016,Conditioner,Beauty,Aurora,11.24,26.07,True,False
+BEA-S-0017,Sunscreen,Beauty,Cedar & Co.,20.35,34.57,True,False
+BEA-LB-0018,Lip Balm,Beauty,Cedar & Co.,23.34,37.14,True,False
+GRO-CB-0019,Coffee Beans,Grocery,MapleWorks,5.59,9.3,False,True
+GRO-GT-0020,Green Tea,Grocery,Riverline,4.6,9.36,False,True
+GRO-P-0021,Pasta,Grocery,Skybridge,3.02,7.28,False,True
+GRO-OO-0022,Olive Oil,Grocery,PolarTech,11.24,22.26,False,True
+GRO-G-0023,Granola,Grocery,Riverline,5.86,8.81,False,True
+GRO-PBB-0024,Protein Bar Box,Grocery,MapleWorks,13.9,20.37,False,True
+SPO-YM-0025,Yoga Mat,Sports,Aurora,60.57,106.71,False,False
+SPO-RB-0026,Resistance Bands,Sports,Everday,48.12,86.62,False,False
+SPO-RS-0027,Running Socks,Sports,NorthPeak,44.38,111.89,False,False
+SPO-GG-0028,Gym Gloves,Sports,PolarTech,56.43,109.72,False,False
+SPO-WJ-0029,Waterproof Jacket,Sports,Aurora,47.43,78.55,False,False
+SPO-CL-0030,Cycling Lights,Sports,PolarTech,85.92,142.69,False,False
+OFF-NS-0031,Notebook Set,Office,MapleWorks,94.21,202.5,False,False
+OFF-GP-0032,Gel Pens,Office,Cedar & Co.,23.04,38.52,False,False
+OFF-MK-0033,Mechanical Keyboard,Office,NorthPeak,72.41,124.78,False,False
+OFF-MP-0034,Mouse Pad,Office,Riverline,123.27,189.77,False,False
+OFF-DO-0035,Desk Organizer,Office,NorthPeak,31.76,52.21,False,False
+OFF-LS-0036,Laptop Stand,Office,Skybridge,121.87,185.76,False,False
