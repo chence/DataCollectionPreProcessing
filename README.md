@@ -26,7 +26,7 @@ $ source .venv/bin/activate
 
 ## Export PDF
 ```shell
-(.venv)$ quarto render output/lab2.ipynb --to pdf --execute
+(.venv)$ quarto render lab2.ipynb --to pdf --execute
 ```
 
 ## Data-source attribution links
